@@ -25,7 +25,7 @@ except AttributeError:
 class Ui_Dialog(object):
     def setupUi(self, Dialog):
         Dialog.setObjectName(_fromUtf8("Dialog"))
-        Dialog.resize(362, 241)
+        Dialog.setFixedSize(362, 241)
         self.textBrowser = QtGui.QTextBrowser(Dialog)
         self.textBrowser.setGeometry(QtCore.QRect(10, 10, 341, 221))
         self.textBrowser.setObjectName(_fromUtf8("textBrowser"))
