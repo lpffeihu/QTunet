@@ -36,7 +36,7 @@ Release中包含了Windows版本的可执行文件，请[移步](https://github.
 
 ### For MAC
 
-不是特别推荐给不写代码的MAC用户使用。如果你不纠结于图形界面，请使用Bash版本的QTunet。
+不是特别推荐给不写代码的MAC用户使用。如果你不纠结于图形界面，请使用[Bash版本的QTunet](https://github.com/lpffeihu/QTunetBash)。
 
 如果你一定要用，你需要安装pyQt。但这个貌似挺容易把系统搞乱的，这就是不推荐使用的原因。具体如何安装pyQt请Google。
 
@@ -54,7 +54,7 @@ brew install pyqt
 
 没试过。
 
-我直接用Bash版本。
+我直接用[Bash版本](https://github.com/lpffeihu/QTunetBash)。
 
 ## Windows下的编译
 
