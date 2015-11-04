@@ -4,7 +4,7 @@
 
 QTunet是一个带有保持在线功能的Tunet客户端
 
-使用Python 2.7和pyQt4开发，遵循GPLv3。
+使用Python 2.7和pyQt4开发，遵循GPLv3。主程序是QTunet.pyw。
 
 注意界面上显示的“Online, XXXMB”中的流量是**登录时的流量**，不会实时更新。下面两个Up和Down是本次登录后使用的流量，会经常更新。
 
